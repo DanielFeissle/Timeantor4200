@@ -1,0 +1,64 @@
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\bin\Debug\App.xbf
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\bin\Debug\MainPage.xbf
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\bin\Debug\Timeantor4200.xr.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\bin\Debug\Timeantor4200.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\bin\Debug\Timeantor4200.pdb
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\bin\Debug\resources.pri
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\bin\Debug\AppxManifest.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\bin\Debug\Timeantor4200.build.appxrecipe
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\App.g.i.cs
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\App.g.cs
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\MainPage.g.i.cs
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\MainPage.g.cs
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\App.xaml
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\MainPage.xaml
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\App.xbf
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\MainPage.xbf
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\Timeantor4200.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\Timeantor4200.pdb
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\priconfig.xml
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\priconfig.xml.intermediate
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\layout.resfiles
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\layout.resfiles.intermediate
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\resources.resfiles
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\resources.resfiles.intermediate
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\pri.resfiles
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\pri.resfiles.intermediate
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\qualifiers.txt
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Daniel\AppData\Local\Temporary Projects\Timeantor4200\obj\Debug\ProjectArchitectures.txt
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\App.xbf
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\MainPage.xbf
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\Timeantor4200.xr.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\Timeantor4200.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\Timeantor4200.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\resources.pri
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\AppxManifest.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\Timeantor4200.build.appxrecipe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\App.g.i.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\App.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\MainPage.g.i.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\MainPage.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\App.xaml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\App.xbf
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\MainPage.xaml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\MainPage.xbf
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\Timeantor4200.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\Timeantor4200.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\priconfig.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\priconfig.xml.intermediate
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\layout.resfiles
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\layout.resfiles.intermediate
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\resources.resfiles
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\resources.resfiles.intermediate
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\pri.resfiles
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\pri.resfiles.intermediate
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\qualifiers.txt
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\ProjectArchitectures.txt

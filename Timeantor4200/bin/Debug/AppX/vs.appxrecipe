@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DAN-4700</Machine>
+    <WindowsUser>Daniel</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>23b37cbc-6c71-4dd1-8674-59221ae34ee7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B9C9978C55C1B1294FA0AFC70959518A5213B2A802C6E3E97C9FE54E4D8A9228</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>23b37cbc-6c71-4dd1-8674-59221ae34ee7_1.75.0.3_neutral__4jdacjwc0e74a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>23b37cbc-6c71-4dd1-8674-59221ae34ee7_4jdacjwc0e74a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>23b37cbc-6c71-4dd1-8674-59221ae34ee7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Daniel</RegisteredPackagePublisher>
+    <RegisteredVersion>1.75.0.3</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-20T12:54:34.247</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\Timeantor4200.exe">
+      <PackagePath>Timeantor4200.exe</PackagePath>
+      <Modified>2017-06-20T13:27:34.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+      <Modified>2017-06-17T23:14:58.544</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-06T20:46:11.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-17T23:12:26.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-17T23:12:08.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-17T23:12:45.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-17T23:34:59.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-17T23:33:05.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-06-17T23:34:13.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-06-20T12:54:33.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-06-20T13:14:44.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\Timeantor4200.xr.xml">
+      <PackagePath>Timeantor4200.xr.xml</PackagePath>
+      <Modified>2017-06-20T13:07:29.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Timeantor4200\Timeantor4200\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-06-20T12:54:34.111</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="23b37cbc-6c71-4dd1-8674-59221ae34ee7" Publisher="CN=Daniel" Version="1.75.0.3" />
+  <Properties>
+    <DisplayName>Timeantor4200</DisplayName>
+    <PublisherDisplayName>Daniel</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Timeantor4200.App">
+      <m2:VisualElements DisplayName="Timeantor4200" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="Ever wanted to see the direct breakdown of an hourly wage in glourious real time, well with this now you can! Simply put in an hourly amount and see the break down in six diffrent sectors (Secounds, 30 secound, Minute, 15 minute, half hour, and Hour). Start the timer to see how much you rake in per secound and watch the amount over time grow." ForegroundText="light" BackgroundColor="#464646">
+        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+        <m2:InitialRotationPreference>
+          <m2:Rotation Preference="landscape" />
+          <m2:Rotation Preference="landscapeFlipped" />
+        </m2:InitialRotationPreference>
+        <m2:ApplicationView MinWidth="default" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+</Package>
